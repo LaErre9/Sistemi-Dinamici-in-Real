@@ -9,7 +9,7 @@ attuale la spiegazione.
 In alcuni programmi, come Antifurto, Serratura, Riscaldamento Bilocale si è aggiunto un mio punto
 di vista su una possibile implementazione futura del programma nel mondo della Domotica. 
 
-# La scaletta seguita nella realizzazione ed analisi dei programmi 
+# La scaletta seguita nella realizzazione ed analisi dei programmi in Matlab
 
 1. **Introduzione programma scelto** |
   Spiegazioni dell’argomento trattato e la sua importanza <br>
